@@ -63,7 +63,7 @@ public class Quiz {
 
         questoes.add(criarQuestao("14- Qual princesa troca sua voz por pernas humanas?", "A) Ariel", "B) Merida", "C)Bela", "D) Cinderela", "E) Moana", "A"));
 
-        questoes.add(criarQuestao("15 -Qual Presente o pai de Bela rouba para dar pra ela?", "A) Carro", "B) Ouro", "C) Anel", "D) Rosa", "E) Aumento do nível do mar", "B"));
+        questoes.add(criarQuestao("15 -Qual Presente o pai de Bela rouba para dar pra ela?", "A) Carro", "B) Ouro", "C) Anel", "D) Rosa", "E) Maquiagem", "B"));
     }
 
     private static Questao criarQuestao(String pergunta, String opcaoA, String opcaoB, String opcaoC, String opcaoD, String opcaoE, String correta) {
