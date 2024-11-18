@@ -51,7 +51,7 @@ public class Quiz {
 
         questoes.add(criarQuestao("8- Qual fruta é usada para enfeitiçar Branca de Neve?", "A) Jabuticaba", "B) Maçã", "C) laranja", "D) Morango", "E) Uva", "B"));
 
-        questoes.add(criarQuestao("De que material era feito o sapato da Cinderela?", "A) Plástico", "B) Couro", "C)  Borracha", "D) Pvc", "E) Cristal", "E"));
+        questoes.add(criarQuestao("9- De que material era feito o sapato da Cinderela?", "A) Plástico", "B) Couro", "C)  Borracha", "D) Pvc", "E) Cristal", "E"));
 
         questoes.add(criarQuestao("Qual é o nome da Princesa do Filme Enrolados?", "A) Pocahontas", "B) Bela", "C) Cinderela", "D) Rapunzel", "E) Tiana", "D"));
 
