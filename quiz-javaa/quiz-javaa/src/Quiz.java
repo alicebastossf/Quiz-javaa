@@ -53,7 +53,7 @@ public class Quiz {
 
         questoes.add(criarQuestao("9- De que material era feito o sapato da Cinderela?", "A) Plástico", "B) Couro", "C)  Borracha", "D) Pvc", "E) Cristal", "E"));
 
-        questoes.add(criarQuestao("Qual é o nome da Princesa do Filme Enrolados?", "A) Pocahontas", "B) Bela", "C) Cinderela", "D) Rapunzel", "E) Tiana", "D"));
+        questoes.add(criarQuestao("10- Qual é o nome da Princesa do Filme Enrolados?", "A) Pocahontas", "B) Bela", "C) Cinderela", "D) Rapunzel", "E) Tiana", "D"));
 
         questoes.add(criarQuestao("Qual animal de estimação da Rapunzel?", "A) Gato", "B) Papagaio", "C) Camaleão", "D) Cavalo", "E) Cachorro", "C"));
 
