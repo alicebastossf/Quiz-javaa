@@ -37,7 +37,7 @@ public class Quiz {
 
         questoes.add(criarQuestao("1- De qual princesa é o castelo que aparece na logo da Disney?", "A) Cinderela", "B) Bela", "C) Branca de Neve", "D) Moana", "E) Mulan", "A"));
 
-        questoes.add(criarQuestao("Como se chama o príncipe da princesa Aurora?", "A) Príncipe John", "B) Príncipe Phillip", "C) Príncipe Jack", "D) Príncipe Julian", "E) Príncipe Harry", "B"));
+        questoes.add(criarQuestao("2- Como se chama o príncipe da princesa Aurora?", "A) Príncipe John", "B) Príncipe Phillip", "C) Príncipe Jack", "D) Príncipe Julian", "E) Príncipe Harry", "B"));
 
         questoes.add(criarQuestao(" Qual princesa se disfarçou de homem para salvar o pai?", "A) Cinderela", "B) Tiana", "C) Aurora", "D) Mulan", "E) Merida", "D"));
 
