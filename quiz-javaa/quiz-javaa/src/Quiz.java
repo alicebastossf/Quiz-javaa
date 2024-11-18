@@ -49,7 +49,7 @@ public class Quiz {
 
         questoes.add(criarQuestao("7- De que cor fica o cabelo de Rapunzel quando é cortado?", "A) Rosa", "B) Loiro", "C) Preto", "D) Castanho", "E) Ruivo", "D"));
 
-        questoes.add(criarQuestao("Qual fruta é usada para enfeitiçar Branca de Neve?", "A) Jabuticaba", "B) Maçã", "C) laranja", "D) Morango", "E) Uva", "B"));
+        questoes.add(criarQuestao("8- Qual fruta é usada para enfeitiçar Branca de Neve?", "A) Jabuticaba", "B) Maçã", "C) laranja", "D) Morango", "E) Uva", "B"));
 
         questoes.add(criarQuestao("De que material era feito o sapato da Cinderela?", "A) Plástico", "B) Couro", "C)  Borracha", "D) Pvc", "E) Cristal", "E"));
 
