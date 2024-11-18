@@ -55,15 +55,15 @@ public class Quiz {
 
         questoes.add(criarQuestao("10- Qual é o nome da Princesa do Filme Enrolados?", "A) Pocahontas", "B) Bela", "C) Cinderela", "D) Rapunzel", "E) Tiana", "D"));
 
-        questoes.add(criarQuestao("Qual animal de estimação da Rapunzel?", "A) Gato", "B) Papagaio", "C) Camaleão", "D) Cavalo", "E) Cachorro", "C"));
+        questoes.add(criarQuestao("11- Qual animal de estimação da Rapunzel?", "A) Gato", "B) Papagaio", "C) Camaleão", "D) Cavalo", "E) Cachorro", "C"));
 
-        questoes.add(criarQuestao("Qual animal a princesa Tiana precisou beijar para quebrar um feitiço?", "A) Jacaré ", "B) Sapo", "C) Macaco", "D) Cavalo", "E) Cachorro", "B"));
+        questoes.add(criarQuestao("12- Qual animal a princesa Tiana precisou beijar para quebrar um feitiço?", "A) Jacaré ", "B) Sapo", "C) Macaco", "D) Cavalo", "E) Cachorro", "B"));
 
-        questoes.add(criarQuestao(" Quem ajudou Moana na sua ilha e era conhecida como a louca da ilha?", "A)  Sua mãe", "B) Sua tia", "C) Sua vó", "D) Seu irmão", "E) Seu namorado", "C"));
+        questoes.add(criarQuestao("13- Quem ajudou Moana na sua ilha e era conhecida como a louca da ilha?", "A)  Sua mãe", "B) Sua tia", "C) Sua vó", "D) Seu irmão", "E) Seu namorado", "C"));
 
-        questoes.add(criarQuestao("Qual princesa troca sua voz por pernas humanas?", "A) Ariel", "B) Merida", "C)Bela", "D) Cinderela", "E) Moana", "A"));
+        questoes.add(criarQuestao("14- Qual princesa troca sua voz por pernas humanas?", "A) Ariel", "B) Merida", "C)Bela", "D) Cinderela", "E) Moana", "A"));
 
-        questoes.add(criarQuestao("Qual Presente o pai de Bela rouba para dar pra ela?", "A) Carro", "B) Ouro", "C) Anel", "D) Rosa", "E) Aumento do nível do mar", "B"));
+        questoes.add(criarQuestao("15 -Qual Presente o pai de Bela rouba para dar pra ela?", "A) Carro", "B) Ouro", "C) Anel", "D) Rosa", "E) Aumento do nível do mar", "B"));
     }
 
     private static Questao criarQuestao(String pergunta, String opcaoA, String opcaoB, String opcaoC, String opcaoD, String opcaoE, String correta) {
