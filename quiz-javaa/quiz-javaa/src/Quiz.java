@@ -39,15 +39,15 @@ public class Quiz {
 
         questoes.add(criarQuestao("2- Como se chama o príncipe da princesa Aurora?", "A) Príncipe John", "B) Príncipe Phillip", "C) Príncipe Jack", "D) Príncipe Julian", "E) Príncipe Harry", "B"));
 
-        questoes.add(criarQuestao(" Qual princesa se disfarçou de homem para salvar o pai?", "A) Cinderela", "B) Tiana", "C) Aurora", "D) Mulan", "E) Merida", "D"));
+        questoes.add(criarQuestao("3- Qual princesa se disfarçou de homem para salvar o pai?", "A) Cinderela", "B) Tiana", "C) Aurora", "D) Mulan", "E) Merida", "D"));
 
-        questoes.add(criarQuestao("Qual é o nome do gato de estimação da madastra da Cinderela?", "A) Cheshire", "B) Gato de botas", "C) Lucifer", "D) Flit", "E) Abu", "C"));
+        questoes.add(criarQuestao("4- Qual é o nome do gato de estimação da madastra da Cinderela?", "A) Cheshire", "B) Gato de botas", "C) Lucifer", "D) Flit", "E) Abu", "C"));
 
-        questoes.add(criarQuestao("Qual princesa é uma habilidosa arqueira? ", "A) Jasmine", "B) Cinderela", "C) Merida", "D) Tiana", "E) Aurora", "C"));
+        questoes.add(criarQuestao("5- Qual princesa é uma habilidosa arqueira? ", "A) Jasmine", "B) Cinderela", "C) Merida", "D) Tiana", "E) Aurora", "C"));
 
-        questoes.add(criarQuestao("Qual princesa não nasceu humana?", "A) Tiana", "B) Rapunzel", "C) Cinderela", "D) Ariel", "E) Merida", "D"));
+        questoes.add(criarQuestao("6- Qual princesa não nasceu humana?", "A) Tiana", "B) Rapunzel", "C) Cinderela", "D) Ariel", "E) Merida", "D"));
 
-        questoes.add(criarQuestao("De que cor fica o cabelo de Rapunzel quando é cortado?", "A) Rosa", "B) Loiro", "C) Preto", "D) Castanho", "E) Ruivo", "D"));
+        questoes.add(criarQuestao("7- De que cor fica o cabelo de Rapunzel quando é cortado?", "A) Rosa", "B) Loiro", "C) Preto", "D) Castanho", "E) Ruivo", "D"));
 
         questoes.add(criarQuestao("Qual fruta é usada para enfeitiçar Branca de Neve?", "A) Jabuticaba", "B) Maçã", "C) laranja", "D) Morango", "E) Uva", "B"));
 
